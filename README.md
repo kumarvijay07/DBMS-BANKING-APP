@@ -72,12 +72,9 @@ Assume you have a `Users` table in your Oracle database with columns `id`, `name
 ![Screenshot 6](UI_Screenshots/6.png)
 ![Screenshot 7](UI_Screenshots/7.png)
 ![Screenshot 8](UI_Screenshots/8.png)
+![Screenshot 8](UI_Screenshots/9.png)
+![Screenshot 8](UI_Screenshots/10.png)
 
-
-
-## Contributors
-
-- [Your Name](https://github.com/kumarvijay07)
 
 ## License
 
