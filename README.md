@@ -64,15 +64,20 @@ Assume you have a `Users` table in your Oracle database with columns `id`, `name
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1.*
+![Screenshot 1](UI_Screenshots/1.png)
+![Screenshot 2](UI_Screenshots/2.png)
+![Screenshot 3](UI_Screenshots/3.png)
+![Screenshot 4](UI_Screenshots/4.png)
+![Screenshot 5](UI_Screenshots/5.png)
+![Screenshot 6](UI_Screenshots/6.png)
+![Screenshot 7](UI_Screenshots/7.png)
+![Screenshot 8](UI_Screenshots/8.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2.*
+
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/kumarvijay07)
 
 ## License
 
